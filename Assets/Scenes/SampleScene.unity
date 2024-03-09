@@ -471,6 +471,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 814cda8665e0abb4984badf1b30b6aec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  myMessage: My World
 --- !u!4 &1317858754
 Transform:
   m_ObjectHideFlags: 0
